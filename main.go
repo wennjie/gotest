@@ -8,6 +8,7 @@ import (
 
 func main() {
 	test.Name("main-name-test-git3")
+	//我实现了一个用户管理功能
 	test.Age()
 	fmt.Println("1111")
 	cmd.CmdTest()
