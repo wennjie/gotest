@@ -1,11 +1,7 @@
 package main
 
-import "fmt"
-
-func Pn(te string) {
-	fmt.Println(te)
-}
+import "awesomeProject/cmd"
 
 func main() {
-	Pn("xxx")
+	cmd.Pn("XXX")
 }
